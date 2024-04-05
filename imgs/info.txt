@@ -1,6 +1,7 @@
 This Directory contains img files from my social accounts. 
 
-I reccomend you download the files yourselves and replace them in this directory on your machine. These imgs were used to create digital signatures. 
+I reccomend you download the files yourselves and replace them in this directory on your machine. These imgs were used to create digital signatures.
+DO NOT SCREENSHOT PEPEGUH 
 
 NOTE* I create a digital signature from the bytes of these images. This means that the file I originally upload is different from the one you download.
 So if I created a digital signature from my original file you would not be able to verify it because when you download that file from Instagram or Twitter etc
