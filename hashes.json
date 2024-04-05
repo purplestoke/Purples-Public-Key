@@ -1,0 +1,26 @@
+{
+    "BeforeHash": {
+        "Instagram": {
+            "signature1": "m0gOickYnVZsNtYbb4UCNdRc/353JKJyF/+IFbMPCAJQJamwebbukpkem/iVLu0PXxoBnf6omxHcHD9qAJ27m9Z4etykRWkjM/UG8rhjpFc2SP5PH7EEgdDi4xvRNMU1cIi0aXcvvkbHh3wfGUJ8nTX1ipEX3nuMXB4Rbhc/WviArew1u8HW7PC+31hXrqinLgHuRvbaQFCp+sIALDN150D6mQTgf4nymOT0Z+NDCrn6eMdyNpJRSmnU7snSpaGmTnAgd5psVcQwl2ZyzUEW7mw/Q1ijYOVy1FVXHhPKH6sB3GntMoE8xmyTDvRiScZg2O6AXiVaLzRCtuQmnYSHyQ==",
+            "msg1": "bananas",
+            "signature2": "UDK5NEGi1wJiheBFgPGpeMAPB+27OLnjEedpuexkcRfc186E0EANZyoiM16ltJA3ac0szUb9bJ5MHqqgUcDNLJrYDTxqS1/F2BUEfGxaCOZ+DZ/5cc7ys7FYGWs6hroAAJ3aKN5e/sUe0Ej0WR5oyeNrw2zT8Tz28Xn+3wcbhByTqHfJjAL44XbHBtZiFkV/XYpeayg/GV0SbjoIZvhP4FsduCua70lPeRM4nu/wnZQlkT2/AMNcorLcLGW0cjpi3snVflRMOsCjc3zZoBXch6/C2Ksi7QBAs7aSpkiewP+po+jTmdc/nGwU6UeeTWHQ5nO5ABVA172TUQgPB9uHMA==",
+            "msg2": "gijoe"
+        },
+        "Twitter": {
+            "signature1": "gB+djp8l6hFZnJSox20lE4bYQb+QdnNGXzlcCd672+OcstH2PKMaUTSQ/GslH/I/h+1daXKSgsS30s5YPYA90oSavdCRrbHQlM2DKFHQkM0gcHA91xXerH4K9xLfK66PCPuSpZLXf0OBmX67m16BujXBhlSEZzHyMgp9g9aIA85hDJ9IgGyXQygx7vNB8YxnlpRjfecavM9047mkTK4O/Dq1gef0n3wt5ZhrPZXqeaylK5C6LR4Qm/vi1d6/leqfjLGtyo+JTN1gzuJipVZ+/cVB4keRHLdGU+pqcAy6F8+P9q36Yj5HchK+0nq1TqinFYFIdN9y86adlbPoUdXKxg==",
+            "msg1": "Verify my content using Public Key Cryptography https://youtu.be/uMqMGoeiiME?si=bBs9C3i_cjXA7yEE via @YouTube All my content moving forward will be verified via digital signatures. Signature will be attached below and a video showing how to verify",
+            "signature2": "W5yD2rbz4MrEeF0lTnASih6M8aeKZPdjfYiL+b0jexDxSAA445CanJLHrpgnSai5wFbBAZQhJCf2i0NmFzppr2Nu+LPzmRCPDQSVDmv4fGLd2iISaNmolztu3bOX7gYppMEtiEhe2ilLuTCrwfjYpTvBe3BkDWN08IA+SN7sye3gJptpyh/a4p07nSIWhse04P2iFCZ+1jvY5097Y1Sty6EZLWH7WDlV/R2zn6HopB5vjMcDl0wnWQNTM6nyrHWeAivl+8meXUQ0QEFB3Kn6Lncl2rVAuMmdyRfzN+ga0NgUfypmFFX+LnyROkHJqE45eVwlhxDAkOHruAZzd3L7gQ==",
+            "msg2": "pepeguh"
+        }
+    },
+    "1": {
+      "signature": "base64_signature1",
+      "msg": "URL_to_content1_or_some_identifier"
+    },
+    "2": {
+      "signature": "base64_signature2",
+      "msg": "URL_to_content2_or_some_identifier"
+    }
+
+  }
+  
