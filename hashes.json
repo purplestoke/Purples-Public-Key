@@ -23,10 +23,6 @@
     "1": {
       "signature": "base64_signature1",
       "msg": "URL_to_content1_or_some_identifier"
-    },
-    "2": {
-      "signature": "base64_signature2",
-      "msg": "URL_to_content2_or_some_identifier"
     }
 
   }
