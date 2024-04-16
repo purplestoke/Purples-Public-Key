@@ -214,7 +214,7 @@
         "signature": "EsthuCQTBwzxp0ljWygZlBU1md85kSJ94+amvbFXTDgsYFTWj+P0e77BKs8vHFSVs38gg67ZakB1rC6tG725REZSS9xCgBBAwbs8cTPUSxATIUAprRVtmjlW3I4lZQPQcYkay0q9x9sbjbZXDCB1OxJ48NuP1UoqDCG9DYP3Z31abQT10drWVr91QKEefSMi9bWDJluSckdod8XWa1NUZEe8GLkThJsi8hTCTgy8r8O4N/RFTQ2onmfzZvAAnBzkpzhrP45inDKNBqwNUFX1VepdasOQUSBzMI/DzGTBdA8vfil7y0j94rW6Qwilyp8Vy+luJ9vTsIesiDFtfc7tvA==",
         "hash": "459a2cb7acf8e069e961cc36c58b3540fb591d86972b6db671abfde189bf7f9f",
         "msg": "lion"
-    }.
+    },
     "40": {
         "signature": "Ider5bKiwdyL6OFnbIzeqyzaIdjIcRZPMk0SiFiBxBBtL9ccsxVE1edyKOQAwwPJY0vseyhv2TPOfHSTrnV/N9uOO3KZ4quCnF9Jqty0AVVoTn3dkiJbV2hC+eukZnlORr2vYu22kadYEQtpGZflll3NlgAT4alB8SNVefD/lY6YslPlI6i+E3Nj9lrRAVqwJrP2vyNZ2Szz8ukQNBrM5hbEnYo4qHlSKsbL3V7AKjdMhIe1welyp8wEGPmdNqrNsixa25UShzubP5o2OpBOQ9Bzx8z8pG2ulenDzX8Cr7QAMcV1daHnFNz98kG2NhaoYE47tHSG3ljk4cjDOW260g==",
         "hash": "fb93104f0f6fd576f2d311f9fd3c080612d0e3fab064ee9a561b76b707dccbd6",
@@ -224,7 +224,10 @@
         "signature": "E5rgVoDarEK5yNqGAbjin3E/xa1lVp55m/xITY3bMYs1RargVGTVFptv9lzmKNLwEmb4XwLfR+KD06uDHyeIJfBkgk+5tPEbEd0ek5XsztqyNDYIqJ5SLxLqBvE60hdijF+X5ZAIgTA6RnrSif+MNeU+UcCNw73mbroFGBbgTa6hGyqHtP9yyqpkgd6TonA8Oo2UQ5C15/Bal8vWcHFWkOwbMxESsk2qnZ+YsQaRxmaHsyXl05PYfrVk8USoIyI+enxyeTdefhQRVAh6gAqooJDBYkMIAWrvk7m7z199bwwx3aJmZwuz6Nnd1mTmyt8Bae3YOpO+E8Y4KGkjazhfLQ==",
         "hash": "e42afac6e9ac92dfce4b248dfc752305657a2df6090f7a1c0038c9ec986b3d3f",
         "msg": "fire"
-    }
-
+    },
+    "42": {
+        "signature": "drhEF60O7U50JB3KcrxU9mI4u1Z8oRAm8Hfb/et78YdBhD4/V4SMB+sp25FOGBj0/yebCEumdpH2HwoezzCMROPJVLvyblX1gDs1lwqXSn8orbjzAI3WAIVfKrXArzJSNA9ufa9rNgtbND64DWEjteh813rtFvd2k7WVIq4n1AAvBPvGNcWAVpflJrrN3OXK2KSkS98Jv3ncPgTxvxWkOcU4iVbi9033cbehY7CJ8aK64oiEYhiQiUo8CNmMEcAAXK+fi94nKhSy5gnKlWkJdc9O29NwiRhkMlV57jpOiaAC+mvKZLXeqzdqcv90AbSnR1a+NsAy0jktSrEPaGGavw==",
+        "hash": "106aa0ac6e50c84ae00c8388966028022a657f9bd22dc3842780282271c19f8e",
+        "msg": "clouds"
   }
   
