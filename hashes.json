@@ -364,6 +364,11 @@
         "signature": "Pf2J/3hVSgNYi30wT3xRfXJX8OQEHnLQsL9UUiPK5RydixhLRGEGtYRkup5CRiKAJ3Mp/G/jzw0JPjjpPoLCuR7ghhWAMo2FYqYn7/QOjmo0YuhHqXj8IZ9VJsRfoDVXci7GuTYRGWQZDbGxCJOqqAJziaqNlTEzTA97lNoegF7AlRNrj5dqxFvu+YzgW1ThK4HhMKQvk1/KUROycy+D4WxwO4abpACSv6VV8PzE7LP8BV+waBOAmu3cHQW8cMvlXC6QOCy6be5pT02Yty9t9L2j2y5847o2BkB23+Gkq1bsAKv0P0y3FvRd89XHkQa8ShQ5uabiywXJbN0GFQJ7Nw==",
         "hash": "bc75557578dfaeedf9e5755e0e29e2a4c052c6527440469d2860495675e90f4b",
         "msg": "ether"
+    },
+    "70": {
+        "signature": "WO9iwDHtztZijoMHmVKfpUhDpl8iN284r4phzYAZi8Yo0apztb8fwn1kPizfkz10J/KYV8ZwZSbuuzNVkUJbe8WhbSOtrNfNjIAEs1CXCG5qZ5XaWO1wIxh+Sz6C0C2HOu6NKjzi4QynHPA8/CztOf5UgebYtCZQ5dXqTNI0Nfl6sAiGdFWhVaCoAamYvfPtrJK+w12/+ymO/a+TPZMLG+ghcb0cgOzAAVvrhaKr28WO0CATVQirBUQMswE9CiPY/oFtCn8nPjjzAO7vIkAeddONbcAB7pgnb7TBmcGsfTaWIQz2DI9CgXLr59G/iXEgUVwhFY1vXCfRgF07WST5JA==",
+        "hash": "360994ac50d1ae38326ae5f831736ebc12b42086c837494b0910c60ad628016b",
+        "msg": "round"
     }
 }
         
