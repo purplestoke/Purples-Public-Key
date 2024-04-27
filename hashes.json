@@ -379,6 +379,16 @@
         "signature": "iUFguuXWv9Hp2YcTGea3eqqOTqm9ud09KxJJ6qiWUflZnUVumdKorce5WazFHiien4SE/PLzDMXrhVtglBEliqYkpqYPBPu7/ykvXJTNJlFdFBd/l9ni0NDyHmgVo9N0KlwbGo06RMh9xok/mryEssPeYnV/RL2BuyP0s+vvvN+IIp+QCm06eqqg7NBkjJHVH0N93Gux4Y0rQ09jCRaAPSBo9zXZavpRi2DxbNPz39khhXwekkpra4azbofac9xY5S5QcxBFFXp7Ujiamy/bH493M/fG7vjcepZWtGBwx8rt0m266zE4twhXuvVQeqbvuZ5C2p4E4hQbvZTJrxhVmw==",
         "hash": "431e3f30586fba9a9e927f9a952a2e7c84e271419e3bb1109a02f61395bc08c5",
         "msg": "books"
+    },
+    "73": {
+        "signature": "R7JHgakhTgt/2cQX2FGFR06WymeaDDM0sr1tGHNTYVrTR5FV7RQCkopKGlURx6EwqU4HsZ363y+H+LnRShojucuMsnQa4biRp1vX8WI4/D/zpqB0NJ3CrBH9wWAJzzdwa6B1JYDu8uIfdYC1H0jg0Co+t7ZVnZ0CUVniPI4Ar9RDdQIvYPmvlSWbOM6kt9l2iz6f9GCz3ezlSBSimNE0rgzvKLlOft/7DBWJZDRksSm2lSDLVjUu5eA/wUAcmA4pHa9YaSIPFAWyAHhHpsRjIqZDz1Qx8Dj/TFdT3+yeTC4cGbEf8hl/iLEy9sMQtMXsUzr+vO7jcVWAgU8fjkoQUw==",
+        "hash": "992df7564fb23d345aa894de9e80b2a0a8c2cceb7103b11ac0e9cc740936c9a0",
+        "msg": "glitch"
+    },
+    "74": {
+        "signature": "AnAIFSnCIegMeg/82EmNHrh6berMYQN12OnVmYGMC1SMtywYy9H8Av0GY9B6yJGwt18MR9BZVi06MnTOmCojXiG6GPcDKU7iZGvvyPhJLkkJYamJVV0KajveQMQwf8dQyQk+dp2/hvu6OxdmPYsDkh6jnHmcsYp/NwQWhh1pwP+84UHlDQ6xtaUkr5V6IQMhMX8CWtan1YQ/diTzlB778xN+cL9vzkx2cCx2TmX0zQuU2z+KEAht06VR8t06OApTUQaIGdcjuS5QydEtEHw9Q4YItGyHpalllNNFLM6Yn+uVMTyB0hoYqzMFiUa3Q/RcuRcToaVOSJ4t2fomjbncsw==",
+        "hash": "dc125292b4d3fb0055733ae45fcba5ba1b1db574361400478a18fde4afe6ea5c",
+        "msg": "score"
     }
 }
         
