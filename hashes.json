@@ -459,7 +459,12 @@
         "signature": "krQrQoPqxk+jFHFfheI35DQSpG2JjKlWPYdgvYgRcxeaU8+2R94fRUspu+rA5gEzZb6kdZNHrkR6HOO+9HQvTVqSn7Wh2p+gOaktkU0XWrl5do1ofB0tAI82776Uj+XypAtNXr48yDUBhwipG3Xo1rJECfpIAqmE6W549Dve3Y4tBs8ae6yJiM6hTE9xo5XuvVZEGx9uQlAMCaJ+R9whPs4Xdj+WjY9csdxdpTfVMZnLx0OJxnNruQT5a7ZSmuyxe90m1opjArK3CkYoXCKo0ElYs6yO+HXs5jx/bHICqlVD1xCHiUzEtvEHHeYzu6GumA6OQs84nc/hkfyBMmqCfA==",
         "hash": "36e2a757ed1eba24c3f4f2626fdffab0b0468e7a868026209c66d8b944472046",
         "msg": "flake"
-    }
+    },
+    "89": {
+        "signature": "IcTDu86n2rdTUAnwutqwPMsY5S9u8xRyQf7eXn+Hxxmmr0bazBt2lqesHUmoa0oZi9eeCPVxBhS2yhNZDJaivaZ7Ps+ULs1a/gd0ZiddFBdz8pl5Beamq6mmWvvm/A2I3QSQFnCA3uq94xp+kpjpf2KPZABm3x0gIshuDXws4jaAEjd+EWRxdAdi2GvnubX3YDYbgi75gEJTbjntwg0v3Bxx8UUvtWDk88kEMYP8MGz9HXBF3fkR06og4/fPRTmiAMqXccs4NvIz3kEPCAwv+WHIm7w+H0E1DxGkwLb4FG3YBOcr3w+Ku+yW9awyvTJIO7qOuN/CD46RCdZ/v7WvFA==",
+        "hash": "07b567cf2e349191718db2ff0a45f219c04d3e28587205ccb0b9bafd95dfb468",
+        "msg": "battery"
+    },
 }
         
   
